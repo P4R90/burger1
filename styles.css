@@ -60,3 +60,16 @@ footer{
     font-family: helvetica;
     color: white;
 }
+
+.banner .welcome{
+    background: rgba(74, 5, 139, 0.438);
+    color: white;
+    position: absolute;
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-bottom: 500px;
+    left: 10%;
+    top: 50%;
+    border-radius: 25px;
+    border: solid white;
+}
