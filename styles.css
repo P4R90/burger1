@@ -1,0 +1,62 @@
+header{
+    position: absolute;
+    background-color: rgb(75, 5, 139);
+    padding: 0px;
+    width: 100%;
+    top: 0;
+    left: 0;
+    font-family: Helvetica, sans-serif;
+}
+
+header h1{
+    color: white;
+    border: solid;
+    border-width: 5px;
+    display: inline-block;
+    padding: 10px;
+    margin: 20px;
+}
+
+nav{
+    background-color: #F4F4F4;
+    padding: 20px;
+    position: sticky;
+    top: 100px;
+}
+
+nav ul{
+    white-space: nowrap;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+nav li{
+    width: 25%;
+    display: inline-block;
+    font-size: 24px;
+}
+
+nav li a{
+    text-decoration: none;
+    color: #4b4b4b;
+}
+
+
+.banner img{
+    max-width: 100%;
+    
+}
+
+
+footer{
+    position: absolute;
+    background-color: rgb(75, 5, 139);
+    padding: 0px;
+    width: 100%;
+    left: 0;
+}
+.copywright{
+    text-align: center;
+    font-family: helvetica;
+    color: white;
+}
